@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PPPhotography]]></title>
-        <description><![CDATA[PPPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[PP Photography]]></title>
+        <description><![CDATA[PP Photography]]></description>
+        <link>https://thegrid.ai/ppphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 16:47:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 06:49:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ppphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Klaw]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e6db988a81debd6a11be4812a0f8dc2/croprotate.jpg?cropheight=2048&cropwidth=1366&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/01eff4ec-36b6-4d40-a40e-7ca5c75db2cc.jpg&x=0&y=0">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/01eff4ec-36b6-4d40-a40e-7ca5c75db2cc.jpg</link>
+            <guid isPermaLink="false">688899fe-0381-4576-9817-69ff470057c7</guid>
+            <pubDate>Thu, 30 Jun 2016 06:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Peter Pollock Photography - The Gallery Show - Peter Pollock Photography]]></title>
             <description><![CDATA[<article><h1>Peter Pollock Photography - The Gallery Show - Peter Pollock Photography</h1><p>Http</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae51c9edc97df6f6a2f1934dbbe98168c030c92e.jpg"></article>]]></description>
